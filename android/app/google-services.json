@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410692276857",
+    "project_id": "saglik-personel-sistemi",
+    "storage_bucket": "saglik-personel-sistemi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410692276857:android:372cdebe02cd688ef07aa8",
+        "android_client_info": {
+          "package_name": "com.example.saglik_personel_sistemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0tiYiPpEgtgfIO7Mk2vBRwSvxJNRq0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
